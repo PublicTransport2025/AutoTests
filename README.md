@@ -1,0 +1,2 @@
+# AutoTests
+Autotests for server
